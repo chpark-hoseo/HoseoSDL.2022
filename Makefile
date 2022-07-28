@@ -1,7 +1,7 @@
 # Define the link target.
 linkTarget = a.out
 
-#pwd 명령으로 확인 가능
+#pwd 명령으로 확인 -가능
 HOME = $(PWD)
 
 SRC_DIR := $(HOME)/src
